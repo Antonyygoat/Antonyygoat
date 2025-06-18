@@ -6,4 +6,9 @@
 
 <p align="center">
   <img src="https://github.com/Antonyygoat/Antonyygoat/blob/main/hacker.gif" width="600"/>
-</p>
+</p>🧠 Skills:
+- Custom tools: `NovaShell`, `NX-Injector`
+- Reverse engineering kernel-space
+- DeepNet observer
+
+> _"Your system isn’t broken... I just rewrote it."_
