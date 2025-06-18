@@ -23,23 +23,3 @@
 ![Burp Suite](https://img.shields.io/badge/Burp-Orange?style=flat&logo=burpsuite&logoColor=white)
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HananKhoeruman&show_icons=true&theme=radical" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HananKhoeruman&theme=dark" alt="streak" />
-</p>
-
----
-
-### 📫 Let's connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hanankhoeruman)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/hananzploit)
-
----
-
-> “The quieter you become, the more you can hear.” — Ram Dass
